@@ -1,0 +1,10 @@
+{
+  "name": "nixpacks-test",
+  "version": "1.0.0",
+  "description": "Test app for nixpacks deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
